@@ -63,6 +63,12 @@
   color: red;
 }
 
+.Win {
+  font-size: 20px;
+  font-weight: 900;
+  color: green;
+}
+
 button.restartButton {
   width: auto;
   display: block;
