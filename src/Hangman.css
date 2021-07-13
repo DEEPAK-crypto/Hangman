@@ -2,7 +2,7 @@
   width: 400px;
   color: black;
   text-align: center;
-  zoom: 1.3;
+  zoom: 1;
 }
 
 .Hangman img {
@@ -55,4 +55,16 @@
   background: #bdbdbd;
   color: #eeeeee;
   box-shadow: 0 6px #9e9e9e;
+}
+
+.wrong-guesses {
+  font-size: 20px;
+  font-weight: 900;
+  color: red;
+}
+
+button.restartButton {
+  width: auto;
+  display: block;
+  margin: auto;
 }
